@@ -8,6 +8,7 @@
 <html>
     <head>
         <title>Flat File Mini Assignment</title>
+        <link rel="stylesheet" href="styles.css" type="text/css" />
     </head>
     <body>
         <h1>Hamlet</h1>
