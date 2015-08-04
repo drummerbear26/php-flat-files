@@ -15,7 +15,7 @@
         <form action="newLine.php" method="POST">
             <fieldset>
                 <legend>Add a line of text to the end of file:</legend>
-                <input type="text" name="new_line"/>
+                <input class="input" type="text" name="new_line"/>
                 <input type="submit" value="Add"/>
             </fieldset>
          </form>

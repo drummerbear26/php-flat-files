@@ -3,3 +3,7 @@ fieldset {
     border-color: #2424ff;
     width: 23em;
 }
+
+.input {
+    width: 29em;
+}
